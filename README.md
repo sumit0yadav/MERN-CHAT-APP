@@ -1,3 +1,7 @@
+Name = Sumit Yadav
+University = IIT Delhi
+Department = Engineering Physics
+
 # Talk-A-Tive
 
 Talk-a-tive is a Full Stack Chatting App.
